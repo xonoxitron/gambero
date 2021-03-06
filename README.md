@@ -61,11 +61,11 @@ and it can be used in the envelop of any further message that need it explicitly
 
 **Public stream**
 
-![gambero-public-stream](../media/../gambero/media/gambero-public-stream.gif)
+![gambero-public-stream](./media/gambero-public-stream.gif)
 
 **Private stream**
 
-![gambero-private-stream](../media/../gambero/media/gambero-private-stream.gif)
+![gambero-private-stream](./media/gambero-private-stream.gif)
 
 # Disclaimer
 

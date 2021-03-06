@@ -59,11 +59,11 @@
 //! 
 //! **Public stream**
 //! 
-//! ![gambero-public-stream](../media/../gambero/media/gambero-public-stream.gif)
+//! ![gambero-public-stream](https://github.com/xonoxitron/gambero/blob/main/media/gambero-public-stream.gif)
 //! 
 //! **Private stream**
 //! 
-//! ![gambero-private-stream](../media/../gambero/media/gambero-private-stream.gif)
+//! ![gambero-private-stream](https://github.com/xonoxitron/gambero/blob/main/media/gambero-private-stream.gif)
 //! 
 //! # Disclaimer
 //! 
