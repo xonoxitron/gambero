@@ -1,7 +1,7 @@
 const NAME: &str = "gambero";
 const DESCRIPTION: &str =
     "🦐 Command-line interface (CLI) for Kraken exchange WebSockets API | Written in Rust";
-const VERSION: &str = "0.1.1";
+const VERSION: &str = "0.1.2";
 const AUTHOR: &str = "Matteo Pisani <matteo.pisani.91@gmail.com>";
 const REPOSITORY: &str = "https://github.com/xonoxitron/gambero";
 

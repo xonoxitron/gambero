@@ -7,6 +7,8 @@
 //! 
 //! **```gambero```** built-in executable offers the easiest I/O interop with the [Kraken exchange WebSockets API](https://support.kraken.com/hc/en-us/sections/360003493672-WebSocket-API).
 //! 
+//! **NOTE**: this is a compound tool built on top of [squalo](https://docs.rs/squalo) and [polipo](https://docs.rs/polipo) libraries. Have a look at them if you need detached and/or more application-specific integration capabilities.
+//! 
 //! # Prerequisites
 //! 
 //! The [Kraken exchange](https://kraken.com) allows **```WebSockets API```** interaction with both **```public```** and **```private```** data.
